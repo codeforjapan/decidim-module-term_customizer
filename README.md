@@ -13,6 +13,12 @@ within the system, e.g. the whole system, participatory space scope (e.g. all
 participatory processes or a specific participatory process) or a specific
 component within a participatory space.
 
+## Compatibility
+
+This module is compatible with:
+- **Decidim**: 0.32.x
+- **Ruby**: 3.4.x
+
 The term customizations will be only applied to the scope which the admin user
 has defined for the set. Multiple scopes can be defined against a single
 translation set.
